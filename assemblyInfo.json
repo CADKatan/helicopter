@@ -7,16 +7,34 @@
 	},
 	"timestamps": [
 		{
-			"end": 1.75
+			"end": 1.75,
+			"parts": [
+				"https://raw.githubusercontent.com/CADKatan/helicopter/main/parts/rotorcap.svg",
+				"https://raw.githubusercontent.com/CADKatan/helicopter/main/parts/tailrotor.svg",
+				"https://raw.githubusercontent.com/CADKatan/helicopter/main/parts/tail.svg"
+			]
 		},
 		{
-			"end": 5.5
+			"end": 5.5,
+			"parts": [
+				"https://raw.githubusercontent.com/CADKatan/helicopter/main/parts/screw.svg",
+				"https://raw.githubusercontent.com/CADKatan/helicopter/main/parts/bodymid.svg",
+				"https://raw.githubusercontent.com/CADKatan/helicopter/main/parts/bodybottom.svg"
+			]
 		},
 		{
-			"end": 10.5
+			"end": 10.5,
+			"parts": [
+				"https://raw.githubusercontent.com/CADKatan/helicopter/main/parts/toprotor.svg",
+				"https://raw.githubusercontent.com/CADKatan/helicopter/main/parts/bodytop.svg",
+				"https://raw.githubusercontent.com/CADKatan/helicopter/main/parts/rotorcap.svg"
+			]
 		},
 		{
-			"end": 18
+			"end": 18,
+			"parts": [
+				"https://raw.githubusercontent.com/CADKatan/helicopter/main/parts/screw.svg"
+			]
 		}
 	]
 }
