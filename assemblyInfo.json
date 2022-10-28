@@ -1,0 +1,22 @@
+{
+	"src": "https://raw.githubusercontent.com/CADKatan/helicopter/assembly.mp4",
+	"videoElementStyle": {
+		"marginLeft": "52px",
+		"maxWidth": "130%",
+		"maxHeight": "100%"
+	},
+	"timestamps": [
+		{
+			"end": 1.75
+		},
+		{
+			"end": 5.5
+		},
+		{
+			"end": 10.5
+		},
+		{
+			"end": 18
+		}
+	]
+}
